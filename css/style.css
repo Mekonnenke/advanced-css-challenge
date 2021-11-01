@@ -193,7 +193,7 @@ a {
 }
 
 .four-images{
-  padding-right:70px;
+  padding-right:120px;
 
 
 
@@ -217,7 +217,7 @@ a {
   .zoom:hover {
     top:-25px;
     left:-35px;
-    width:4500px;
+    width:450px;
     height:auto;
     display:block;
     z-index:999;
@@ -269,6 +269,6 @@ a {
    }
    .display-image {
 
-     transform: rotate(0);
+     justify-content : center;
    }
  }
