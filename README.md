@@ -19,4 +19,4 @@
     
     Two links:
     
-   
+  The github link for the assignment repository:  https://github.com/Mekonnenke/advanced-css-challenge
