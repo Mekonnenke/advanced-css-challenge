@@ -19,4 +19,5 @@
     
     Two links:
     
-  The github link for the assignment repository:  https://github.com/Mekonnenke/advanced-css-challenge
+    The github link for the assignment repository:  https://github.com/Mekonnenke/advanced-css-challenge
+    The web link for the assignment  https://mekonnenke.github.io/advanced-css-challenge/
