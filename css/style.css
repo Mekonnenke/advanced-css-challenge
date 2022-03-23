@@ -275,8 +275,10 @@ a {
     }
 
     .four-images{
-    
-       margin-left: .5rem;
+      display:flex;
+      flex-wrap: wrap;
+       padding-right:95px;
+       margin-left: 8rem;
        
    }
 
